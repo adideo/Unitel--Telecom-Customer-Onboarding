@@ -1,4 +1,4 @@
-We developed a telecom customer onboarding platform that automates SIM activation using Aadhaar-based eKYC verification. The system verifies users through Aadhaar APIs, automatically fetches customer details, and allows personalized telecom plan selection.
+I developed a telecom customer onboarding platform that automates SIM activation using Aadhaar-based eKYC verification. The system verifies users through Aadhaar APIs, automatically fetches customer details, and allows personalized telecom plan selection.
 
 The backend was built using Java and Spring Boot with secure APIs implemented using Spring Security, while the frontend was developed using React. The system was deployed on AWS EC2 with MySQL hosted on AWS RDS. We tested the platform with over 500 mock user signups to validate performance and scalability.
 
